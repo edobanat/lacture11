@@ -3,7 +3,6 @@
 
 
 echo"<!DOCTYPE html>"
-  . "html>"
   . " <head>"
   . " <meta charset=\"utf-8\">"
   . " <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no\">"
@@ -23,7 +22,6 @@ echo"<!DOCTYPE html>"
   . "   <br>"
   . "   <a href=\"https://thestandard.co/police-border-patrol-raising-protest-signs/\">ข่าวแหล่งที่มา THE STANDARD</a>"
   . "   </body>"
-  . "/html>"
  ."";
 
 ?>
